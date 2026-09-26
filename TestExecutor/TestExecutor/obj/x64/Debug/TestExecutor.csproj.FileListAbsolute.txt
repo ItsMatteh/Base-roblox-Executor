@@ -1,0 +1,5 @@
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Debug\TestExecutor.csproj.AssemblyReference.cache
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Debug\TestExecutor.Form1.resources
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Debug\TestExecutor.Properties.Resources.resources
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Debug\TestExecutor.csproj.GenerateResource.cache
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Debug\TestExecutor.csproj.CoreCompileInputs.cache

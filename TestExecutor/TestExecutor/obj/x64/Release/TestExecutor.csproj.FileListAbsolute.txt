@@ -1,0 +1,11 @@
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Release\TestExecutor.csproj.AssemblyReference.cache
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Release\TestExecutor.Form1.resources
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Release\TestExecutor.Properties.Resources.resources
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Release\TestExecutor.csproj.GenerateResource.cache
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Release\TestExecutor.csproj.CoreCompileInputs.cache
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\bin\x64\Release\TestExecutor.exe.config
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\bin\x64\Release\TestExecutor.exe
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\bin\x64\Release\TestExecutor.pdb
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Release\TestExec.8EBE0A6E.Up2Date
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Release\TestExecutor.exe
+C:\Users\Arche\source\repos\TestExecutor\TestExecutor\obj\x64\Release\TestExecutor.pdb
